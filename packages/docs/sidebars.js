@@ -120,6 +120,11 @@ const sidebars = {
                 },
                 {
                     type: 'doc',
+                    label: 'EpochKeyMultiProof',
+                    id: 'circuits-api/epoch-key-multi-proof',
+                },
+                {
+                    type: 'doc',
                     label: 'SignupProof',
                     id: 'circuits-api/signup-proof',
                 },
