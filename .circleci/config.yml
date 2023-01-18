@@ -84,6 +84,7 @@ jobs:
                       - packages/contracts/contracts/verifiers
                       - packages/core/build
                       - packages/core/cache
+                      - packages/test/build
                       - packages/utils/build
     lint:
         machine:
